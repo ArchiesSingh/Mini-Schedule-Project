@@ -1,2 +1,2 @@
-# Mini-Schdule-Project
 # Mini-Schedule-Project
+This is python mini project which beginners can use to increase there confidence and also to get know about time module and use of it in real-life......
